@@ -17,9 +17,11 @@ Before you can use the code above, you need to make sure that you have all files
 ## Update the values
 
 Open the file called `index.js` with an Editor
+```js
+const  USER_ID = "insert your discord userid in here";
+const  TOKEN = "insert your discord bot token in here";
+```
 
-    const  USER_ID = "insert your discord userid in here";
-    const  TOKEN = "insert your discord bot token in here";
 You have to insert your Discord UserID and your Discord Bot Token into the 2 fields.
 After you've done that, you're pretty much ready to go.
 
